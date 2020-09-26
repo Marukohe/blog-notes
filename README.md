@@ -1,2 +1,2 @@
-# blog-notes
+# blog-notes ✍️
 My personal blog notes
